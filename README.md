@@ -43,19 +43,19 @@ Put it wherever you want!
 
 From Start Menu or Desktop
 
-![image-20200127152515640](F:\noelc\dev\GDA\img\image-20200127152515640.png)
+![image-20200127152515640](https://github.com/CreeperKong/GDA/raw/master/img/image-20200127152515640.png)
 
 #### Click Settings > SHIELD
 
 **If GameStream is not enabled, click on the switch to enable it.**
 
-![image-20200127152720453](F:\noelc\dev\GDA\img\image-20200127152720453.png)
+![image-20200127152720453](https://github.com/CreeperKong/GDA/raw/master/img/image-20200127152720453.png)
 
 #### Add this into GAMES & APPS list
 
 Locate the binary and click Open
 
-![image-20200127152950696](F:\noelc\dev\GDA\img\image-20200127152950696.png)
+![image-20200127152950696](https://github.com/CreeperKong/GDA/raw/master/img/image-20200127152950696.png)
 
 #### Enjoy!
 
